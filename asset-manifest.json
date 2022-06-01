@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Username-age-app.git/static/css/main.a848e6de.chunk.css",
+    "main.js": "/Username-age-app.git/static/js/main.321fc1ec.chunk.js",
+    "main.js.map": "/Username-age-app.git/static/js/main.321fc1ec.chunk.js.map",
+    "runtime-main.js": "/Username-age-app.git/static/js/runtime-main.80887f0e.js",
+    "runtime-main.js.map": "/Username-age-app.git/static/js/runtime-main.80887f0e.js.map",
+    "static/js/2.2faebb29.chunk.js": "/Username-age-app.git/static/js/2.2faebb29.chunk.js",
+    "static/js/2.2faebb29.chunk.js.map": "/Username-age-app.git/static/js/2.2faebb29.chunk.js.map",
+    "index.html": "/Username-age-app.git/index.html",
+    "static/css/main.a848e6de.chunk.css.map": "/Username-age-app.git/static/css/main.a848e6de.chunk.css.map",
+    "static/js/2.2faebb29.chunk.js.LICENSE.txt": "/Username-age-app.git/static/js/2.2faebb29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80887f0e.js",
+    "static/js/2.2faebb29.chunk.js",
+    "static/css/main.a848e6de.chunk.css",
+    "static/js/main.321fc1ec.chunk.js"
+  ]
+}
